@@ -1,0 +1,2 @@
+# cut
+cheatsheet of cut
